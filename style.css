@@ -1,0 +1,119 @@
+@media (min-width:360px) and (max-width:720px) {
+    body {
+        background: linear-gradient(rgba(0, 0, 0, 0.1), rgb(253, 140, 236));
+        /* background-repeat: no-repeat; */
+        /* background-size: cover; */
+    }
+
+    .middle {
+        font-size: large;
+        color: red;
+        -webkit-text-stroke: 1px black;
+        text-align: center;
+        text-align: center;
+    }
+
+    #surbtn {
+        background-color: rgb(235, 21, 135);
+        width: 180;
+        font-size: medium;
+        color: white;
+    }
+
+    button a {
+        text-decoration: none;
+        color: white;
+    }
+
+    .box {
+        position: absolute;
+        left: 35%;
+        top: 40%;
+        height: 110px;
+        width: 150px;
+        background-color: palevioletred;
+    }
+
+    .smbox {
+        height: 20px;
+        width: 20px;
+        position: absolute;
+        left: 5%;
+        background-color: aliceblue;
+    }
+
+    .smbox1 {
+        height: 20px;
+        width: 20px;
+        position: absolute;
+        left: 35%;
+        background-color: aliceblue;
+    }
+
+    .smbox2 {
+        height: 20px;
+        width: 20px;
+        position: absolute;
+        left: 65%;
+        background-color: aliceblue;
+    }
+
+    .smbox3 {
+        height: 20px;
+        width: 20px;
+        position: absolute;
+        top: 57%;
+        left: 20%;
+        background-color: aliceblue;
+    }
+
+    .smbox4 {
+        height: 20px;
+        width: 20px;
+        position: absolute;
+        top: 57%;
+        left: 50%;
+        background-color: aliceblue;
+    }
+
+    .smbox5 {
+        height: 20px;
+        width: 20px;
+        position: absolute;
+        top: 57%;
+        left: 80%;
+        background-color: aliceblue;
+    }
+
+    .smbox6 {
+        height: 20px;
+        width: 20px;
+        position: absolute;
+        top: 80%;
+        left: 5%;
+        background-color: aliceblue;
+    }
+
+    .smbox7 {
+        height: 20px;
+        width: 20px;
+        position: absolute;
+        top: 80%;
+        left: 35%;
+        background-color: aliceblue;
+    }
+
+    .smbox8 {
+        height: 20px;
+        width: 20px;
+        position: absolute;
+        top: 80%;
+        left: 65%;
+        background-color: aliceblue;
+    }
+}
+
+/* #leftname {
+    transform: scaleX(-1);
+    text-align: center;
+} */
